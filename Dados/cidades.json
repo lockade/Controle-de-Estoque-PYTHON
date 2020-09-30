@@ -1,0 +1,77 @@
+[{
+    "id": 1,
+    "nome": "Pitangueiras",
+    "UF": "SP"
+}, {
+    "id": 2,
+    "nome": "Barretos",
+    "UF": "SP"
+}, {
+    "id": 3,
+    "nome": "Guaira",
+    "UF": "SP"
+}, {
+    "id": 4,
+    "nome": "Sao Paulo",
+    "UF": "SP"
+}, {
+    "id": 5,
+    "nome": "Guarulhos",
+    "UF": "SP"
+}, {
+    "id": 6,
+    "nome": "Campinas",
+    "UF": "SP"
+}, {
+    "id": 7,
+    "nome": "Sao Bernardo do Campo",
+    "UF": "SP"
+}, {
+    "id": 8,
+    "nome": "Sao Jose dos Campos",
+    "UF": "SP"
+}, {
+    "id": 9,
+    "nome": "Santo Andre",
+    "UF": "SP"
+}, {
+    "id": 10,
+    "nome": "Ribeirao Preto",
+    "UF": "SP"
+}, {
+    "id": 11,
+    "nome": "Osasco",
+    "UF": "SP"
+}, {
+    "id": 12,
+    "nome": "Sorocaba",
+    "UF": "SP"
+}, {
+    "id": 13,
+    "nome": "Maua",
+    "UF": "SP"
+}, {
+    "id": 14,
+    "nome": "São Jose do Rio Preto",
+    "UF": "SP"
+}, {
+    "id": 15,
+    "nome": "Mogi das Cruzes",
+    "UF": "SP"
+}, {
+    "id": 16,
+    "nome": "Santos",
+    "UF": "SP"
+}, {
+    "id": 17,
+    "nome": "Diadema",
+    "UF": "SP"
+}, {
+    "id": 18,
+    "nome": "Jundiai",
+    "UF": "SP"
+}, {
+    "id": 19,
+    "nome": "Piracicaba",
+    "UF": "SP"
+}]
